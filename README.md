@@ -8,7 +8,9 @@ After getting feprepare.zip from https://feprepare.vi-seem.eu/indexlpg.php and N
 
 # Thanks to
 https://www.ks.uiuc.edu/Research/namd/
+
 http://zarbi.chem.yale.edu/ligpargen/
+
 https://feprepare.vi-seem.eu/indexlpg.php
 
 
